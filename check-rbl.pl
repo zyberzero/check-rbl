@@ -95,7 +95,6 @@ my @rbl=(
 	'dnsbl.dronebl.org',
 	'db.wpbl.info',
 	'query.senderbase.org',
-	'bl.emailbasura.org',
 	'combined.rbl.msrbl.net',
 	'multi.uribl.com',
 	'black.uribl.com',
@@ -141,7 +140,7 @@ my @rbl=(
 	'blacklist.sci.kun.nl',
 	'all.spamblock.unit.liu.se',
 	'spamguard.leadmon.net',
-	'csi.cloudmark.com'
+	'csi.cloudmark.com',
 );
 
 ####
