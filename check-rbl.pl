@@ -89,7 +89,6 @@ my @rbl=(
 	'dsn.rfc-ignorant.org',
 	'dsn.rfc-ignorant.org',
 	'netblock.pedantic.org',
-	'ix.dnsbl.manitu.net',
 	'rbl.efnetrbl.org',
 	'blackholes.mail-abuse.org',
 	'dnsbl.dronebl.org',
